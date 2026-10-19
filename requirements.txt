@@ -1,0 +1,21 @@
+# Core UI & Web Framework
+streamlit>=1.35.0
+
+# LLM & Multimodal AI
+google-genai>=2.28.0
+
+# Ingestion & Video Data
+youtube-transcript-api>=1.2.0
+requests>=2.31.0
+
+# Vector Retrieval & Numerics
+faiss-cpu>=1.9.0
+numpy>=1.25.0
+pandas>=2.0.0
+
+# Configuration, Validation & Data Models
+python-dotenv>=1.0.0
+pydantic>=2.7.0
+
+# Testing & Quality
+pytest>=8.0.0
